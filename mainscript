@@ -1,0 +1,2 @@
+game.Workspace.Skoob.CanCollide = false
+game.Workspace.Skoob.Transparency = 0.5
